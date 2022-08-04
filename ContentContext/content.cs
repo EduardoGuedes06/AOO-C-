@@ -5,8 +5,17 @@ using System.Threading.Tasks;
 
 namespace AOO.ContentContext
 {
-    public class content
+    public abstract class Content
     {
-        
+        public Content()
+        {
+            Id = Guid.NewGuid();
+        }
+        public Guid Id { get; set;}
+
+        public string Titulo { get; set;}
+
+        public string Url { get; set;}
+
     }
 }

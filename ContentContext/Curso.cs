@@ -7,6 +7,7 @@ namespace AOO.ContentContext
 {
     public class Curso
     {
+        public string tag { get; set;}
         
     }
 }

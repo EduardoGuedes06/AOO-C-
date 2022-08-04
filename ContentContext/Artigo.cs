@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AOO.ContentContext
 {
-    public class Article
+    public class Article : Content
     {
         
     }

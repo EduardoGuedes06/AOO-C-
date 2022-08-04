@@ -1,36 +1,12 @@
-﻿
-class program{
-    static void Main(string[] args)
-    {
-        // Tipo de Referencia
-        // -> Endereço dos dados
-        var pagamentoBoleto = new PagamentoBoleto();
-        pagamentoBoleto.Pagar();
-        pagamentoBoleto.Vencimento = DateTime.Now;
-        pagamentoBoleto.NumeroBoleto = "123";
+﻿namespace AOO{
+    class program{
+        static void Main(string[] args)
+        {
+            var curso = new ContentContext.Curso();
+            var content = new ContentContext.Content();
 
-        var pagemento = new Pagamento();
+        }
+
     }
 
-}
-
-class Pagamento
-{
-
-    public DateTime Vencimento;
-
-    public void Pagar(){
-        
-    }
-
-}
-
-class PagamentoBoleto : Pagamento
-{
-    public string NumeroBoleto;
-
-}
-class PagamentoCredito : Pagamento
-{
-    public string Numero; 
 }
