@@ -14,12 +14,11 @@ namespace AOO.ContentContext
         public string tag { get; set;}
 
         public IList<Modulo> Modulos{ get; set;}
-        
-    }
+        public int DuracaoEmMinutos { get; set;}
 
-        public class Lecture
-    {
-        public int Ordem { get; set;}
-        public int Titulo { get; set;}
+        public string Nivel { get; set;}
+
+        public EConentlevel level{ get; set;}
+        
     }
 }

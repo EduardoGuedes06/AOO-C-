@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 namespace AOO.ContentContext
 {
             public class Modulo

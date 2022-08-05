@@ -8,5 +8,6 @@ namespace AOO.ContentContext
     public class Carreira
     {
         public int MinhaPropriedade { get; set;}
+        
     }
 }
