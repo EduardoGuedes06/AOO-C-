@@ -15,8 +15,8 @@ namespace AOO{
             {
                 
             }
-            var carrer = Carrer();
-            carrer.TotalCurses = 25;
+            var carrer = new Carrer();
+            //carrer.TotalCurses = 25;
         }
 
     }

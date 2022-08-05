@@ -7,7 +7,7 @@ namespace AOO.ContentContext
     {
         public Course()
         {
-            Modules = List<Module>();
+             Modules =  new List<Module>();
         }
         public int Tag { get; set;}
         public IList<Module> Modules { get; set;}

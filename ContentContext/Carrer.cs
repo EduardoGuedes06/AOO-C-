@@ -7,8 +7,8 @@ namespace AOO.ContentContext
         {
             Items = new List<CarrerItem>() ;
         }
-        public IList<CarrerItem> Item { get; set;}
-        public int TotalCurses => items.Count;
+        public IList<CarrerItem> Items { get; set;}
+        public int TotalCurses => Items.Count;
     }
 
 }   

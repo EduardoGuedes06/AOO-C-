@@ -9,10 +9,10 @@ namespace AOO.ContentContext
     {
         public Module()
         {
-            Leactures = new List<Lecture>();
+            Lectures = new List<Lecture>();
         }
         public int Order { get; set;}
         public string Title { get; set;}
-        public IList<Lecture> Leactures { get; set;}
+        public IList<Lecture> Lectures { get; set;}
     }
 }

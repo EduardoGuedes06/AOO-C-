@@ -3,7 +3,7 @@ namespace AOO.ContentContext
 {
     public class Content
     {
-        public content()
+        public Content()
         {   
             Id = Guid.NewGuid();
         }

@@ -3,3 +3,33 @@ C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.GeneratedMSBu
 C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfoInputs.cache
 C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfo.cs
 C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.csproj.CoreCompileInputs.cache
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.csproj.AssemblyReference.cache
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfoInputs.cache
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfo.cs
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.csproj.CoreCompileInputs.cache
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\bin\Debug\net6.0\AOO-C-.exe
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\bin\Debug\net6.0\AOO-C-.deps.json
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\bin\Debug\net6.0\AOO-C-.runtimeconfig.json
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\bin\Debug\net6.0\AOO-C-.dll
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\bin\Debug\net6.0\AOO-C-.pdb
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.dll
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\refint\AOO-C-.dll
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.pdb
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\AOO-C-.genruntimeconfig.cache
+C:\Users\artes\Downloads\AOO-C-\AOO-C-\obj\Debug\net6.0\ref\AOO-C-.dll
+D:\Projetos\Curso-.NET\AOOO2\bin\Debug\net6.0\AOO-C-.exe
+D:\Projetos\Curso-.NET\AOOO2\bin\Debug\net6.0\AOO-C-.deps.json
+D:\Projetos\Curso-.NET\AOOO2\bin\Debug\net6.0\AOO-C-.runtimeconfig.json
+D:\Projetos\Curso-.NET\AOOO2\bin\Debug\net6.0\AOO-C-.dll
+D:\Projetos\Curso-.NET\AOOO2\bin\Debug\net6.0\AOO-C-.pdb
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.csproj.AssemblyReference.cache
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.AssemblyInfoInputs.cache
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.AssemblyInfo.cs
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.dll
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\refint\AOO-C-.dll
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.pdb
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\AOO-C-.genruntimeconfig.cache
+D:\Projetos\Curso-.NET\AOOO2\obj\Debug\net6.0\ref\AOO-C-.dll
