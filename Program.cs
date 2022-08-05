@@ -1,17 +1,24 @@
-﻿namespace AOO{
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using AOO.ContentContext;
+using AOO.ContentContext.Enums;
+
+namespace AOO{
     class program{
         static void Main(string[] args)
         {
-            var curso = new ContentContext.Curso();
-            var content = new ContentContext.Content();
-            curso.Nivel = ContentContext.Enumerador.EConentlevel.Begginer;
-            foreach (var item in curso.Modulos)
+            var content = new Content();
+            var course = new Course();
+            course.Level = ContentContext.Enums.EContentLevel.Iniciante;
+            foreach(var item in course.Modules)
             {
                 
             }
-
+            var carrer = Carrer();
+            carrer.TotalCurses = 25;
         }
 
     }
 
-}
+}   

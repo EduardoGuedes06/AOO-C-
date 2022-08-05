@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Curso-.NET\\AOO\\AOO.csproj": {}
+    "C:\\Eduardo\\Git\\Orientacão a objeto\\AOO-C-\\AOO-C-.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Curso-.NET\\AOO\\AOO.csproj": {
+    "C:\\Eduardo\\Git\\Orientacão a objeto\\AOO-C-\\AOO-C-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Curso-.NET\\AOO\\AOO.csproj",
-        "projectName": "AOO",
-        "projectPath": "D:\\Projetos\\Curso-.NET\\AOO\\AOO.csproj",
-        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Curso-.NET\\AOO\\obj\\",
+        "projectUniqueName": "C:\\Eduardo\\Git\\Orientacão a objeto\\AOO-C-\\AOO-C-.csproj",
+        "projectName": "AOO-C-",
+        "projectPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\AOO-C-\\AOO-C-.csproj",
+        "packagesPath": "C:\\Users\\TT - SMSA\\.nuget\\packages\\",
+        "outputPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\AOO-C-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TT - SMSA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,21 +1,15 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AOO.ContentContext
 {
-    public abstract class Content
+    public class Content
     {
-        public Content()
-        {
+        public content()
+        {   
             Id = Guid.NewGuid();
         }
-        public Guid Id { get; set;}
-
-        public string Titulo { get; set;}
-
-        public string Url { get; set;}
-
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Url { get; set; }
+        
     }
 }

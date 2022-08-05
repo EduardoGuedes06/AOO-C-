@@ -1,0 +1,5 @@
+C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.csproj.AssemblyReference.cache
+C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfoInputs.cache
+C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.AssemblyInfo.cs
+C:\Eduardo\Git\Orientacão a objeto\AOO-C-\obj\Debug\net6.0\AOO-C-.csproj.CoreCompileInputs.cache
