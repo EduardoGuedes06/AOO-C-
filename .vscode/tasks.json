@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/AOO-C-.csproj",
+                "${workspaceFolder}/projetoOO.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/AOO-C-.csproj",
+                "${workspaceFolder}/projetoOO.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/AOO-C-.csproj"
+                "${workspaceFolder}/projetoOO.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

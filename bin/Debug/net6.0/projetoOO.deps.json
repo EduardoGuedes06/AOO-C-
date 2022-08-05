@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "AOO-C-/1.0.0": {
+      "projetoOO/1.0.0": {
         "runtime": {
-          "AOO-C-.dll": {}
+          "projetoOO.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AOO-C-/1.0.0": {
+    "projetoOO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

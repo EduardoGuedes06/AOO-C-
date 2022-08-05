@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eduar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\artes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Curso-.NET\\AOO\\AOO-C-.csproj",
-      "projectName": "AOO-C-",
-      "projectPath": "D:\\Projetos\\Curso-.NET\\AOO\\AOO-C-.csproj",
-      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Curso-.NET\\AOO\\obj\\",
+      "projectUniqueName": "C:\\Users\\artes\\projetoOO\\projetoOO.csproj",
+      "projectName": "projetoOO",
+      "projectPath": "C:\\Users\\artes\\projetoOO\\projetoOO.csproj",
+      "packagesPath": "C:\\Users\\artes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artes\\projetoOO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\artes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
